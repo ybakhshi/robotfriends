@@ -1,2 +1,2 @@
 # robotfriends
-This app list a number of robots with their names and images and with a possible search field.
+I am a new javascript developer and currently learning react! I want to learn web development and proramming professionally!
